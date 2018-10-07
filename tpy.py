@@ -3,7 +3,7 @@
 
 @author: astro
 
-The script searches for a keyword and downloads the item, avoiding any annoying popup ads.
+This script searches for a keyword and downloads the item, avoiding any annoying popup ads.
 The script aims to create a search results url then parses the html to proceed to download.
 """
 
