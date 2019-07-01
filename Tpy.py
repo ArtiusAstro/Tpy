@@ -27,7 +27,7 @@ def getSoup(link):
 		print("invalid URL")
 	return BeautifulSoup(page,"html.parser")
 
-site = "https://duckingproxy.eu" #Choose a site here
+site = "https://" #Choose a site here
 postQueryText = "&page=0&orderby=99" #Text after the search keyword in url
 preQueryText = "/s/?q=" #Text before the search keyword in url but after site
 
